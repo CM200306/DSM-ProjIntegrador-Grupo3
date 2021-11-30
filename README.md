@@ -1,4 +1,4 @@
-# DSM-ProjIntegrador-Grupo3
+# DSM-ProjInterdisciplinar-Grupo3
 Projeto Integrador do Segundo Semestre de 2021 do curso de Desenvolvimento de Sistemas Multiplataforma ministrado pela Fatec Araras.
 
 Tema do Projeto Integrador: Saúde e Bem-Estar
